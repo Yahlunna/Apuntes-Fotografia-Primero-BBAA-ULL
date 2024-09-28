@@ -1,2 +1,3 @@
-# Apuntes Fotografia Primero BBAA ULL
- Apuntes de todas las lecciones de fotografía de primer año de
+# Apuntes de Fotografía (Primer año BBAA ULL)
+Apuntes de todas las lecciones de fotografía del primer año de Bellas Artes de la ULL, con notas y avisos de las secciones más importantes.
+
