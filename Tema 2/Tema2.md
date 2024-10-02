@@ -107,7 +107,7 @@ Podemos detectar la influencia que ha predominado en la actitud asumida por el f
 
 **Una actitud creativa**, en la que el fotógrafo tiene una disposición por innovar, opuesta a imitación y reproductividad. La actitud creativa introduce en el mundo formas nuevas, es decir, mensajes originales.
 
-![image-20241002204807747](img\image-20241002204807747.png)
+![image-20241002204807747](img/image-20241002204807747.png)
 
 #### Actitud experimental
 
