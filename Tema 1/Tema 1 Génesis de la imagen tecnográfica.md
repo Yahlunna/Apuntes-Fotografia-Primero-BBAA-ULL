@@ -22,6 +22,9 @@ La **imagen tecnográfica** es manifestación directa del proceso automático de
 
 Se hace necesario, antes de centrar nuestra atención en el campo de las tecnográfías, tener en cuenta que son fruto, más que de un desarrollo espontáneo, de una intensa y larga maduración. Este proceso se demuestra en la multitud de tentativas para crear la imagen de manera automática. Encontraremos numerosas referencias de esta búsqueda en gran parte de la historia del arte y de la ciencia del mundo occidental. Los artilugios ideados perseguían, en algunos casos, la consecución de una imagen enteramente mecánica pero, ante la falta de los conocimientos suficientes, se limitarían a servir de elementos auxiliares que facilitarían la operación de dibujar; otros, en cambio, se ajustaban desde su concepción a esta labor complementaria durante la producción de las imágenes quirográficas.
 
+> [!CAUTION]  
+> Al tomar estos apuntes, tan solo anoté las figuras que me parecieron más importantes. Sin embargo, en el test de respuesta corta se preguntan todas las figuras. Anotad **todas** las figuras con capturas de pantalla o apuntandolas en alguna nota que podáis llevar al examen y tal. ¡Lo siento! 
+
 - (470 BCE) Mo Ti: Filósofo chino. Primeras experiencias conocidas de la formación de una imagen por medio de la cámra oscura
 - (322 BCE) Aristóteles: El filósofo griego describe la cámara oscura en "Problemata", primera evidencia escrita de este dispositivo.
 - (1038) Alhacén: Estudio de la reflexión y la refracción de la luz y el empleo de las lentes a través cámara oscura.
@@ -75,7 +78,7 @@ Si observamos las capas que configuran una película analógica en blanco y negr
 
 
 > [!WARNING]  
-> La siguiente sección está seguida de un cuestionario. Repasa este contenido y asegúrate de que lo entiendes antes de continuar.
+> La siguiente sección de los apuntes está seguida de un mini-cuestionario. 
 
 Derivado del proceso de creación, en el que una máquina crea la imagen de manera automática, se tiende a pensar que la fotografía es una reproducción no mediatizada capaz de facilitar el registro directo de las cosas; que la imagen que obtenemos en una fotografía es una respuesta exacta a una realidad dada. Es por eso que nos piden una fotografía para cualquier carnet oficial, un dibujo no es admitido.
 
@@ -91,7 +94,7 @@ La consecuencia de esto es la **autenticidad** que emana toda imagen fotográfic
  - La fotografía cuenta con cierta **relatividad en la escala de representación** del mundo. Uno objeto, ya sea grande o de dimensiones diminutas, puede tener en la representación fotográfica cualquier tamaño.
 
 > [!NOTE]  
-> Este es un ejemplo de las imágenes que pueden ser usadas como preguntas durante el cuestionario.
+> Este es un ejemplo de las imágenes que pueden ser usadas como preguntas durante el cuestionario al final de la lección.
 
 ![image-20240928130436470](img/image-20240928130436470.png)
 
