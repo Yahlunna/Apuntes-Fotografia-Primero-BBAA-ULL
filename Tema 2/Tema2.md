@@ -91,7 +91,7 @@ Podemos detectar la influencia que ha predominado en la actitud asumida por el f
 
 **Una actitud imitativa**, en donde el fotógrafo trata de repetir lo que otros fotógrafos ya han hecho antes que él. Las grandes obras suelen ser las influyentes en la actitud mimética. Esta actitud por lo general conduce a la superficialidad y a la redundancia, aunque supone la mejor forma de iniciarse y aprender el estilo de los grandes fotógrafos
 
-![image-20241002204311442](E:\Apuntes-Fotografia-Primero-BBAA-ULL\Tema 2\img\image-20241002204311442.png)
+![image-20241002204311442](img/image-20241002204311442.png)
 
 
 
@@ -113,7 +113,7 @@ Podemos detectar la influencia que ha predominado en la actitud asumida por el f
 
 **Una actitud experimental**, como forma particular de creatividad, la cual no siempre es de carácter intuitivo. La actitud experimental implica un gusto por la búsqueda y un sentido de la combinatoria, de ahí, que este tan estrechamente relacionada con la propia técnica.
 
-![image-20241002204922800](img\image-20241002204922800.png)
+![image-20241002204922800](img/image-20241002204922800.png)
 
 
 
@@ -139,31 +139,31 @@ Los signos fotográficos los podemos dividir en cuatro grandes grupos:
 
 **Profundidad de campo** es la zona que aparece nítida en la imagen debido al **enfoque selectivo** que realizó el fotógrafo sobre las manos.
 
-![image-20241002205500273](img\image-20241002205500273.png)
+![image-20241002205500273](img/image-20241002205500273.png)
 
 Efecto **Flou** producido al incorporar un filtro especial o una tela fina que produce una dispersión de la luz creando fotografía con aspecto desvaído o borroso
 
-![image-20241002205551382](img\image-20241002205551382.png)
+![image-20241002205551382](img/image-20241002205551382.png)
 
 ### Lumínicos
 
 En determinadas condiciones al incidir la luz directamente en la lente pueden aparecer formas diversas en la fotografía.
 
-![image-20241002205646661](img\image-20241002205646661.png)
+![image-20241002205646661](img/image-20241002205646661.png)
 
 ### Cinéticos
 
 Descomposición del movimiento producido por el cambio de la distancia focal del **zoom** durante la exposición de la fotografía
 
-![image-20241002205731295](img\image-20241002205731295.png)
+![image-20241002205731295](img/image-20241002205731295.png)
 
 Las estelas se producen al mover la cámara en un ambiente con poca luz y con fuentes de luz puntual
 
-![image-20241002205815551](img\image-20241002205815551.png)
+![image-20241002205815551](img/image-20241002205815551.png)
 
 ### Químicos/digitales
 
 Técnica de la solarización que produce una franja negra alrededor de la figura, Se produce por una breve exposición del negativo durante el revelado.
 
-![image-20241002205924017](img\image-20241002205924017.png)
+![image-20241002205924017](img/image-20241002205924017.png)
 
