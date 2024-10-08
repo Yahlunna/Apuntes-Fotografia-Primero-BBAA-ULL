@@ -38,20 +38,16 @@ El principio de referencia a la realidad se trastoca en el momento en que un med
 
 ## La fotografía como proceso de comunicación
 
-#### Su finalidad es la comunicación
-
+- Su finalidad es la comunicación
 (es universal debido a su gran facilidad de comprensión)
 
-#### Es el medio de expresión del fotógrafo
-
+- Es el medio de expresión del fotógrafo
 (A través de ella informa, educa, entretiene o comparte alguna experiencia)
 
-#### Surge fruto de una acción material y de una actitud
-
+- Surge fruto de una acción material y de una actitud
 (Toda obra resultante de una acción material está determinada por la actitud del individuo, y será esa actitud la que caracterizará la obra realizada)
 
-#### Posee un amplio campo de aplicación
-
+- Posee un amplio campo de aplicación
 (Periodismo, publicidad, investigación, documentación, entretenimiento, la autoexpresión)
 
 
@@ -61,23 +57,23 @@ El principio de referencia a la realidad se trastoca en el momento en que un med
 Si observamos una fotografía cualquiera nos damos cuenta de la existencia de una serie de elementos:
 
 a. **Una imagen**, sustancia visual, representando algo que nos es más o menos conocido o extraño, fácil o difícil de entender, etc.
-
 b. **Un soporte físico**, generalmente un plano bidimensional, que es inseparable de la imagen y sin el cual ésta no existiría (el propio papel fotográfico en que está la imagen impresionada).
-
 c. **Un fragmento de la realidad**, es decir, la imagen modelo que identificamos en la fotografía más o menos reconocible (un paisaje, una figura, un objeto).
-
 En este conjunto de elementos reconocemos la mediación de tres elementos más:
-
 d. **Un fotógrafo**, o individuo que ha obtenido la fotografía que observamos, constituido como emisor de una intencionalidad comunicativa.
-
 e. **Una tecnología**, utillaje, instrumentos materiales y normas o procedimientos de uso, que deben ser manipulados por el fotógrafo.
-
 f. **Un destinatario**, ya sea nosotros en tanto espectadores, u otros individuos o grupos sociales que puedan ser receptores del mensaje fotográfico.
+
+
 
 ![image-20241002203740704](img/image-20241002203740704.png)
 
 
+
 ### Actitudes frente a la fotografía
+
+> [!WARNING]  
+> En el cuestionario se pide identificar los diferentes tipos de intención de ciertas fotografías. Estudia esta sección.
 
 Es importante señalar que una fotografía, como toda obra humana, surge fruto de una acción material y de una actitud o disposición de ánimo en la forma de emprender la acción. Podemos decir que toda obra resultante de una acción material está determinada por la actitud del individuo, y que será esa actitud la que caracterizará la cualidad de la obra realizada.
 
@@ -118,6 +114,9 @@ Podemos detectar la influencia que ha predominado en la actitud asumida por el f
 
 
 ## El lenguaje fotográfico
+
+> [!WARNING]  
+> En el cuestionario se pide identificar los diferentes tipos signos del lenguaje de ciertas fotografías. Estudia esta sección.
 
 Un **signo** puede definirse como aquello que al ser percibido conduce al conocimiento de otra cosa, es decir, es una unidad de sentido. Cuando los signos se organizan en un sistema en el que pueden combinarse para transmitir significados estamos hablando de un **lenguaje**. En el caso de la fotografía encontraremos dos tipos de signos: los signos **analógicos** o literales derivados del registro de la realidad y los signos **no analógicos** o abstractos atribuidos a los fenómenos técnicos del medio fotográfico.
 
